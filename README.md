@@ -1,1 +1,11 @@
-# LaTeX-Practice
+'Hello Word!' My name is Nur Nazifa Sarah but some may know me as Kitty. This is a collection of my LaTeX projects that I had done on overleaf. To give a proper and simplified guide for new visitors on my github page, I have organised different sections, files and code into a sort of directory.
+
+____________________________________________________________________________________________________________________________________________________________________
+
+PROJECT 1: RESUME MOCKUP
+
+____________________________________________________________________________________________________________________________________________________________________
+
+PROJECT 2: NOTES MOCKUP
+
+____________________________________________________________________________________________________________________________________________________________________
